@@ -9,5 +9,4 @@ Implements platform-specific APIs for battery status.
 Clean architecture and modular design for easy scalability.
 Perfect for developers exploring KMM and cross-platform mobile development!
 
-
-![image](https://github.com/user-attachments/assets/46860b0f-1a0a-4383-b88d-1274cb1da2ce)
+<img src="https://github.com/user-attachments/assets/46860b0f-1a0a-4383-b88d-1274cb1da2ce" alt="image" width="600" height="300" />
